@@ -1,5 +1,5 @@
 # Site
-title:              yongdol503's blog
+title:              yongdol503's github page test
 bio:                'jekyll theme test.'
 description:        "test"
 reading_time:       true
@@ -38,7 +38,7 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            yongdol503
+#twitter:           yongdol503
 facebook:           yongdol503
 github-url:         yongdol503
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -48,7 +48,7 @@ instagram:          yongdol503
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
-#pinterest:         username
+pinterest:          yongdol503
 #foursquare:        username
 steam:              yongdol503
 #dribbble:          username
